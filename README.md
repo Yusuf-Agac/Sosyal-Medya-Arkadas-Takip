@@ -1,2 +1,2 @@
 # Sosyal-Medya-Arkadas-Takip
-Its a class assignment
+Its a JavaFX class assignment
